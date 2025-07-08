@@ -2,7 +2,7 @@
 
 I'm a data analyst with experience in turning data into meaningful insights that support business decisions. I work confidently with tools like Python, R, SQL, Excel, Power BI, and Tableau, and I’m skilled in core analytics techniques such as data cleaning, merging, dashboard development, and reporting.
 
-In this portfolio, you’ll find a selection of projects that highlight both my technical capabilities and my approach to solving real-world problems with data. These include interactive dashboards and business reports built with Power BI, Tableau, and Excel—designed to present complex information in a clear and accessible way.
+In this portfolio, you’ll find a selection of projects that highlight both my technical capabilities and my approach to solving real-world problems with data. These include interactive dashboards and business reports built with Power BI, Tableau, and Excel, designed to present complex information in a clear and accessible way.
 
 I’ve also included examples of data analysis using Python, SQL, and R, where I worked with large and varied datasets, integrated multiple data sources, and delivered practical insights through custom analysis workflows.
 
